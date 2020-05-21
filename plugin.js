@@ -37,10 +37,10 @@ define(function () {
 
     return {
 
-        name: "Drag and Drop file",
+        name: "Drag and Drop",
         author: "Hanbin Li",
         email: "hanbinl1@student.unimelb.edu.au",
-        description: "Allow users to drag and drop file on the main window.",
+        description: "Allow users to drag and drop files on the main window.",
 
         initialize: function() {
             // Check for the various File API support.
